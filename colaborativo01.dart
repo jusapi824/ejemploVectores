@@ -15,4 +15,6 @@ void main() {
       print("Se encontró el número en la posición $i");
     }
   }
+  //Codigo para sumar los numeros de un vector
+  
 }
