@@ -8,4 +8,7 @@ void main() {
     print("El vector es ");
     print(numeros[i]);
   }
+  //Código para buscar un elemento en la lista
+  //Codigo para sumar los numeros de un vector
+  
 }
